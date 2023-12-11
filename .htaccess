@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^thumb/kYnIzOi.png firmaP.php [L,NC]
